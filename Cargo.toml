@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "itermcolors2alacritty"
+version = "0.1.0"
+
+[dependencies]
+colors-transform = "0.2.11"
+plist = "1"
